@@ -9,7 +9,7 @@ public class Scores : MonoBehaviour
     [SerializeField] TextMeshProUGUI scoreText;
     public static int count;
     public static int hiscore;
-//    [SerializeField] Text s;
+// These are the changes that will be shown in github
 
     private void Update()
     {
